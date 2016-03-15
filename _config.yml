@@ -1,0 +1,28 @@
+name: post-studio
+favicon: null
+layout_spectrum: 0.21080789691768587
+typography_spectrum: 0.8753648344427347
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6356554194353521
+  lightness: 0.02177143655717373
+  saturation: 0.4902500584721565
+  rhythmicContrast: 0.20688447426073253
+purpose: []
