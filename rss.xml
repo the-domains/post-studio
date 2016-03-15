@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[post-studio]]></title>
+        <description><![CDATA[post-studio]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 15 Mar 2016 11:30:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fuel Packages]]></title>
+            <description><![CDATA[<article><h1>Fuel Packages</h1><p>These Fuel 'Packages' are really just samples that group together the most commonly requested set of features for different project types. They should help you to get a good idea of the process and costs involved, before we sit down and create a solution specifically designed for you. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe1f09237d82d054c1c7c73bfa211b2d841d8311.png"></article>]]></description>
+            <link>undefinedfuel-packages/index.html</link>
+            <guid isPermaLink="false">395a85d2-5634-475a-99cd-a6e053b29ace</guid>
+            <pubDate>Tue, 15 Mar 2016 11:30:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
